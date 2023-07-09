@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <DATA>
+   <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
+   <STARTING_FOLDER>/src/</STARTING_FOLDER>
+   <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
+   <IGNORE>
+    <item>/.gitignore</item>
+    <item>/LICENSE</item>
+    <item>/README.md</item>
+    <item>/package.json</item>
+    <item>/.travis.yml</item>
+    <item>/NOTICE</item>
+    <item>/src/managed/#dmo#c_travel_approver_m.bdef.asbdef</item>
+    <item>/src/managed/#dmo#c_travel_approver_m.bdef.xml</item>
+    <item>/src/managed/#dmo#c_travel_processor_m.bdef.asbdef</item>
+    <item>/src/managed/#dmo#c_travel_processor_m.bdef.xml</item>
+    <item>/src/managed/#dmo#i_travel_m.bdef.asbdef</item>
+    <item>/src/managed/#dmo#i_travel_m.bdef.xml</item>
+    <item>/src/managed/#dmo#ui_travel_approver_m.srvd.srvdsrv</item>
+    <item>/src/managed/#dmo#ui_travel_approver_m.srvd.xml</item>
+    <item>/src/managed/#dmo#ui_travel_processor_m.srvd.srvdsrv</item>
+    <item>/src/managed/#dmo#ui_travel_processor_m.srvd.xml</item>
+    <item>/src/readonly/#dmo#flight_r.srvd.srvdsrv</item>
+    <item>/src/readonly/#dmo#flight_r.srvd.xml</item>
+    <item>/src/unmanaged/#dmo#i_travel_u.bdef.asbdef</item>
+    <item>/src/unmanaged/#dmo#i_travel_u.bdef.xml</item>
+    <item>/src/unmanaged/#dmo#travel_u.srvd.srvdsrv</item>
+    <item>/src/unmanaged/#dmo#travel_u.srvd.xml</item>
+   </IGNORE>
+  </DATA>
+ </asx:values>
+</asx:abap>
